@@ -1,2 +1,2 @@
 # PostgreSQL
-This are my solutions for PostgreSQL course
+Here are my solutions for PostgreSQL course
